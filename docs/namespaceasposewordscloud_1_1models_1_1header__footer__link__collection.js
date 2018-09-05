@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1header__footer__link__collection =
+[
+    [ "HeaderFooterLinkCollection", "classasposewordscloud_1_1models_1_1header__footer__link__collection_1_1_header_footer_link_collection.html", "classasposewordscloud_1_1models_1_1header__footer__link__collection_1_1_header_footer_link_collection" ]
+];

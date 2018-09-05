@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['saveoptionsdata',['SaveOptionsData',['../classasposewordscloud_1_1models_1_1save__options__data_1_1_save_options_data.html',1,'asposewordscloud::models::save_options_data']]],
+  ['saveresponse',['SaveResponse',['../classasposewordscloud_1_1models_1_1save__response_1_1_save_response.html',1,'asposewordscloud::models::save_response']]],
+  ['saveresult',['SaveResult',['../classasposewordscloud_1_1models_1_1save__result_1_1_save_result.html',1,'asposewordscloud::models::save_result']]],
+  ['searchrequest',['SearchRequest',['../classasposewordscloud_1_1models_1_1requests_1_1search__request_1_1_search_request.html',1,'asposewordscloud::models::requests::search_request']]],
+  ['searchresponse',['SearchResponse',['../classasposewordscloud_1_1models_1_1search__response_1_1_search_response.html',1,'asposewordscloud::models::search_response']]],
+  ['searchresult',['SearchResult',['../classasposewordscloud_1_1models_1_1search__result_1_1_search_result.html',1,'asposewordscloud::models::search_result']]],
+  ['searchresultscollection',['SearchResultsCollection',['../classasposewordscloud_1_1models_1_1search__results__collection_1_1_search_results_collection.html',1,'asposewordscloud::models::search_results_collection']]],
+  ['section',['Section',['../classasposewordscloud_1_1models_1_1section_1_1_section.html',1,'asposewordscloud::models::section']]],
+  ['sectionlink',['SectionLink',['../classasposewordscloud_1_1models_1_1section__link_1_1_section_link.html',1,'asposewordscloud::models::section_link']]],
+  ['sectionlinkcollection',['SectionLinkCollection',['../classasposewordscloud_1_1models_1_1section__link__collection_1_1_section_link_collection.html',1,'asposewordscloud::models::section_link_collection']]],
+  ['sectionlinkcollectionresponse',['SectionLinkCollectionResponse',['../classasposewordscloud_1_1models_1_1section__link__collection__response_1_1_section_link_collection_response.html',1,'asposewordscloud::models::section_link_collection_response']]],
+  ['sectionpagesetupresponse',['SectionPageSetupResponse',['../classasposewordscloud_1_1models_1_1section__page__setup__response_1_1_section_page_setup_response.html',1,'asposewordscloud::models::section_page_setup_response']]],
+  ['sectionresponse',['SectionResponse',['../classasposewordscloud_1_1models_1_1section__response_1_1_section_response.html',1,'asposewordscloud::models::section_response']]],
+  ['splitdocumentresponse',['SplitDocumentResponse',['../classasposewordscloud_1_1models_1_1split__document__response_1_1_split_document_response.html',1,'asposewordscloud::models::split_document_response']]],
+  ['splitdocumentresult',['SplitDocumentResult',['../classasposewordscloud_1_1models_1_1split__document__result_1_1_split_document_result.html',1,'asposewordscloud::models::split_document_result']]],
+  ['statdataresponse',['StatDataResponse',['../classasposewordscloud_1_1models_1_1stat__data__response_1_1_stat_data_response.html',1,'asposewordscloud::models::stat_data_response']]],
+  ['storychildnodes',['StoryChildNodes',['../classasposewordscloud_1_1models_1_1story__child__nodes_1_1_story_child_nodes.html',1,'asposewordscloud::models::story_child_nodes']]],
+  ['stringformatdata',['StringFormatData',['../classasposewordscloud_1_1models_1_1string__format__data_1_1_string_format_data.html',1,'asposewordscloud::models::string_format_data']]],
+  ['svgsaveoptionsdata',['SvgSaveOptionsData',['../classasposewordscloud_1_1models_1_1svg__save__options__data_1_1_svg_save_options_data.html',1,'asposewordscloud::models::svg_save_options_data']]]
+];

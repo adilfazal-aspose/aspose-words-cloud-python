@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1graphics__quality__options__data =
+[
+    [ "GraphicsQualityOptionsData", "classasposewordscloud_1_1models_1_1graphics__quality__options__data_1_1_graphics_quality_options_data.html", "classasposewordscloud_1_1models_1_1graphics__quality__options__data_1_1_graphics_quality_options_data" ]
+];

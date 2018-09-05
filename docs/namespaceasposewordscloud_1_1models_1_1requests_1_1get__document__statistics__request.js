@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1get__document__statistics__request =
+[
+    [ "GetDocumentStatisticsRequest", "classasposewordscloud_1_1models_1_1requests_1_1get__document__statistics__request_1_1_get_document_statistics_request.html", "classasposewordscloud_1_1models_1_1requests_1_1get__document__statistics__request_1_1_get_document_statistics_request" ]
+];

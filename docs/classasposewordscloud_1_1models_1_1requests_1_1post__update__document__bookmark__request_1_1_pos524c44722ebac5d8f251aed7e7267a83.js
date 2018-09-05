@@ -1,0 +1,14 @@
+var classasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request_1_1_pos524c44722ebac5d8f251aed7e7267a83 =
+[
+    [ "__init__", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request_1_1_pos524c44722ebac5d8f251aed7e7267a83.html#a34fa9e078a7fb57ba3409beee68fb1c8", null ],
+    [ "bookmark_data", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request_1_1_pos524c44722ebac5d8f251aed7e7267a83.html#aaaf3932ddb6c08119ca6cfb58f75b257", null ],
+    [ "bookmark_name", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request_1_1_pos524c44722ebac5d8f251aed7e7267a83.html#a43d045d275ac8fb846012ed33b224095", null ],
+    [ "dest_file_name", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request_1_1_pos524c44722ebac5d8f251aed7e7267a83.html#a821698657796eaedd7d4e6c69d0baeb2", null ],
+    [ "folder", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request_1_1_pos524c44722ebac5d8f251aed7e7267a83.html#a5c94cb63a09bdd63b24c38e36216defc", null ],
+    [ "load_encoding", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request_1_1_pos524c44722ebac5d8f251aed7e7267a83.html#a9af459be2ab65d38d90577f91e6e8322", null ],
+    [ "name", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request_1_1_pos524c44722ebac5d8f251aed7e7267a83.html#a868e3d235801815b29b81fc5ca98361b", null ],
+    [ "password", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request_1_1_pos524c44722ebac5d8f251aed7e7267a83.html#a7bb531226ad269dce9d64c8748e684d8", null ],
+    [ "revision_author", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request_1_1_pos524c44722ebac5d8f251aed7e7267a83.html#a351a4b0101ad9609f33ea852ee0f470c", null ],
+    [ "revision_date_time", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request_1_1_pos524c44722ebac5d8f251aed7e7267a83.html#a1796c8fed14f5184891b75c05dce47a2", null ],
+    [ "storage", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request_1_1_pos524c44722ebac5d8f251aed7e7267a83.html#aba77eeadac6e57ffb90b65ad6e3e8bcc", null ]
+];

@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1update__table__properties__request =
+[
+    [ "UpdateTablePropertiesRequest", "classasposewordscloud_1_1models_1_1requests_1_1update__table__properties__request_1_1_update_table_properties_request.html", "classasposewordscloud_1_1models_1_1requests_1_1update__table__properties__request_1_1_update_table_properties_request" ]
+];

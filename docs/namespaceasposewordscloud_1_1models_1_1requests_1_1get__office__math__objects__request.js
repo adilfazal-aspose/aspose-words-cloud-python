@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1get__office__math__objects__request =
+[
+    [ "GetOfficeMathObjectsRequest", "classasposewordscloud_1_1models_1_1requests_1_1get__office__math__objects__request_1_1_get_office_math_objects_request.html", "classasposewordscloud_1_1models_1_1requests_1_1get__office__math__objects__request_1_1_get_office_math_objects_request" ]
+];

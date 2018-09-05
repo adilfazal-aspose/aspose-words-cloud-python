@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1put__comment__request =
+[
+    [ "PutCommentRequest", "classasposewordscloud_1_1models_1_1requests_1_1put__comment__request_1_1_put_comment_request.html", "classasposewordscloud_1_1models_1_1requests_1_1put__comment__request_1_1_put_comment_request" ]
+];

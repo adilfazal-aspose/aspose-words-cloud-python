@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1metafile__rendering__options__data =
+[
+    [ "MetafileRenderingOptionsData", "classasposewordscloud_1_1models_1_1metafile__rendering__options__data_1_1_metafile_rendering_options_data.html", "classasposewordscloud_1_1models_1_1metafile__rendering__options__data_1_1_metafile_rendering_options_data" ]
+];

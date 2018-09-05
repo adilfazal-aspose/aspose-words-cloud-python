@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1put__footnote__request =
+[
+    [ "PutFootnoteRequest", "classasposewordscloud_1_1models_1_1requests_1_1put__footnote__request_1_1_put_footnote_request.html", "classasposewordscloud_1_1models_1_1requests_1_1put__footnote__request_1_1_put_footnote_request" ]
+];

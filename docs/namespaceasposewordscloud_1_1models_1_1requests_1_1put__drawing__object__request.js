@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1put__drawing__object__request =
+[
+    [ "PutDrawingObjectRequest", "classasposewordscloud_1_1models_1_1requests_1_1put__drawing__object__request_1_1_put_drawing_object_request.html", "classasposewordscloud_1_1models_1_1requests_1_1put__drawing__object__request_1_1_put_drawing_object_request" ]
+];

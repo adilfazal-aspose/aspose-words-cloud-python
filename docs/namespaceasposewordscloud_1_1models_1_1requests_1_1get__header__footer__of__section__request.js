@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1get__header__footer__of__section__request =
+[
+    [ "GetHeaderFooterOfSectionRequest", "classasposewordscloud_1_1models_1_1requests_1_1get__header__footer__of__section__request_1_1_get6b1f088f6fe852d4bc5be913644c731e.html", "classasposewordscloud_1_1models_1_1requests_1_1get__header__footer__of__section__request_1_1_get6b1f088f6fe852d4bc5be913644c731e" ]
+];

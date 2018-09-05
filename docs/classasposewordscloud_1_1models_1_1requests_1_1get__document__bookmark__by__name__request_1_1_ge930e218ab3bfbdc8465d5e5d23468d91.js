@@ -1,0 +1,10 @@
+var classasposewordscloud_1_1models_1_1requests_1_1get__document__bookmark__by__name__request_1_1_ge930e218ab3bfbdc8465d5e5d23468d91 =
+[
+    [ "__init__", "classasposewordscloud_1_1models_1_1requests_1_1get__document__bookmark__by__name__request_1_1_ge930e218ab3bfbdc8465d5e5d23468d91.html#a6f96fa6df0bf0d73c401e8c142edb7e3", null ],
+    [ "bookmark_name", "classasposewordscloud_1_1models_1_1requests_1_1get__document__bookmark__by__name__request_1_1_ge930e218ab3bfbdc8465d5e5d23468d91.html#a6925e1009628e53835f78f8d7b3ebabc", null ],
+    [ "folder", "classasposewordscloud_1_1models_1_1requests_1_1get__document__bookmark__by__name__request_1_1_ge930e218ab3bfbdc8465d5e5d23468d91.html#a2ca4e28850f0036f8802cd7628318be3", null ],
+    [ "load_encoding", "classasposewordscloud_1_1models_1_1requests_1_1get__document__bookmark__by__name__request_1_1_ge930e218ab3bfbdc8465d5e5d23468d91.html#a6eee65140a5f4aced860bd04fda6edbe", null ],
+    [ "name", "classasposewordscloud_1_1models_1_1requests_1_1get__document__bookmark__by__name__request_1_1_ge930e218ab3bfbdc8465d5e5d23468d91.html#a902873cd5edb15bb1d6e8defe3acd25e", null ],
+    [ "password", "classasposewordscloud_1_1models_1_1requests_1_1get__document__bookmark__by__name__request_1_1_ge930e218ab3bfbdc8465d5e5d23468d91.html#af52924c9d46d30b6c0feffb2247e532d", null ],
+    [ "storage", "classasposewordscloud_1_1models_1_1requests_1_1get__document__bookmark__by__name__request_1_1_ge930e218ab3bfbdc8465d5e5d23468d91.html#aa9d214dd27bb637e5f183aadfd78fbf9", null ]
+];

@@ -1,0 +1,15 @@
+var classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__image__requestfbd331285cddb59eb234ed3c1867d3ca =
+[
+    [ "__init__", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__image__requestfbd331285cddb59eb234ed3c1867d3ca.html#ab7d40416d4428169420ea83d15920d4b", null ],
+    [ "dest_file_name", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__image__requestfbd331285cddb59eb234ed3c1867d3ca.html#acf8e03a23773e1b231d2012045c64638", null ],
+    [ "folder", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__image__requestfbd331285cddb59eb234ed3c1867d3ca.html#a055f8a3b70753196d735a3d310b23a79", null ],
+    [ "image", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__image__requestfbd331285cddb59eb234ed3c1867d3ca.html#a8139269e7717682324e0f52f12572e9b", null ],
+    [ "image_file", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__image__requestfbd331285cddb59eb234ed3c1867d3ca.html#a8d0e5952ceb321057d024b2dd2f367b4", null ],
+    [ "load_encoding", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__image__requestfbd331285cddb59eb234ed3c1867d3ca.html#a9303ab8b17aebfc2375d0a9298922b6e", null ],
+    [ "name", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__image__requestfbd331285cddb59eb234ed3c1867d3ca.html#acbb20313ef38bbd03b75a14df6e2a2bd", null ],
+    [ "password", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__image__requestfbd331285cddb59eb234ed3c1867d3ca.html#a47ef3b8dd8a6ed0bf7d7e978f1cce8e8", null ],
+    [ "revision_author", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__image__requestfbd331285cddb59eb234ed3c1867d3ca.html#ad852f72f404f6bc66fd749337a901a18", null ],
+    [ "revision_date_time", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__image__requestfbd331285cddb59eb234ed3c1867d3ca.html#a8297c40280d479f6ad9438e45241b9b3", null ],
+    [ "rotation_angle", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__image__requestfbd331285cddb59eb234ed3c1867d3ca.html#ad861004fbc74d25aee86eb0333d24410", null ],
+    [ "storage", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__image__requestfbd331285cddb59eb234ed3c1867d3ca.html#a5e8a8f8f9b0a11e103938ea97c0b2eb1", null ]
+];

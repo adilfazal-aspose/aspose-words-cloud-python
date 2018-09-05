@@ -1,0 +1,28 @@
+var classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object =
+[
+    [ "__init__", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a47df263fde03a614d04e870e45563bc3", null ],
+    [ "__eq__", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a9c725102a4e2928c7fb202170d0bec5c", null ],
+    [ "__ne__", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a8086467bbfa848b4f79dad22060f22fe", null ],
+    [ "__repr__", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a5f09503518de84e01ad814d47cc198c4", null ],
+    [ "content", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#ae767a12ec53dbd6590c6b57f58fd302a", null ],
+    [ "content", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#ab54826d7eaf3241e5dea572bb49ee677", null ],
+    [ "display_type", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a590a1b0036b6182a471d360e448f4721", null ],
+    [ "display_type", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#ae8c9476be2294e666bf338db8a3b07c6", null ],
+    [ "justification", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#aa408f550b917ccdbf7d5a1cab2aa4a27", null ],
+    [ "justification", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a0beda7323347863062a339f26bd5f06e", null ],
+    [ "link", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a7ce51afef4531faf6be069a45f40fa2c", null ],
+    [ "link", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a80f18c536343e65a78929f4983a94bd8", null ],
+    [ "math_object_type", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a97ded397ef57f140940af0c33923cc0c", null ],
+    [ "math_object_type", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#ad6f014e0a8e12ed4107dd6f5011c208c", null ],
+    [ "node_id", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a3067d0fb1824fa629c8031b6ce4ccb6b", null ],
+    [ "node_id", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a98305640257926f517dea950251685ad", null ],
+    [ "to_dict", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a273a249236dcbceff7d3bf3956a18254", null ],
+    [ "to_str", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#ab34c8033af5759f1a1fbed221d286ec3", null ],
+    [ "content", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#af10bb658ec42ccb30e83ffb1aa759f7e", null ],
+    [ "discriminator", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a69a28ab11e33e57872ef19d58748ff31", null ],
+    [ "display_type", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a77c26e6479d095c960dbb8cc73629550", null ],
+    [ "justification", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#aa615e5ca8493c3b7491b70ffd800c623", null ],
+    [ "link", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a6b6f761c528396f5bc841be06a55f2a0", null ],
+    [ "math_object_type", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#a7667d7cd10f8cfd7d4af18195f45f6ac", null ],
+    [ "node_id", "classasposewordscloud_1_1models_1_1office__math__object_1_1_office_math_object.html#af6f667ea179704c0506fe825d2a89c6d", null ]
+];

@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1pdf__save__options__data =
+[
+    [ "PdfSaveOptionsData", "classasposewordscloud_1_1models_1_1pdf__save__options__data_1_1_pdf_save_options_data.html", "classasposewordscloud_1_1models_1_1pdf__save__options__data_1_1_pdf_save_options_data" ]
+];

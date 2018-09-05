@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1get__document__paragraph__run__font__request =
+[
+    [ "GetDocumentParagraphRunFontRequest", "classasposewordscloud_1_1models_1_1requests_1_1get__document__paragraph__run__font__request_1_1_5b0cc1146b03f7ad9709bf2ba3d90ba8.html", "classasposewordscloud_1_1models_1_1requests_1_1get__document__paragraph__run__font__request_1_1_5b0cc1146b03f7ad9709bf2ba3d90ba8" ]
+];

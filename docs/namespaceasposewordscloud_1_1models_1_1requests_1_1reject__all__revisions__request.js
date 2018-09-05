@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1reject__all__revisions__request =
+[
+    [ "RejectAllRevisionsRequest", "classasposewordscloud_1_1models_1_1requests_1_1reject__all__revisions__request_1_1_reject_all_revisions_request.html", "classasposewordscloud_1_1models_1_1requests_1_1reject__all__revisions__request_1_1_reject_all_revisions_request" ]
+];

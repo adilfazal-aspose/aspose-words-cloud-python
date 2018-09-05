@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1words__api__error__response =
+[
+    [ "WordsApiErrorResponse", "classasposewordscloud_1_1models_1_1words__api__error__response_1_1_words_api_error_response.html", "classasposewordscloud_1_1models_1_1words__api__error__response_1_1_words_api_error_response" ]
+];

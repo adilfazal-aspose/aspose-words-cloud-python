@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1update__section__page__setup__request =
+[
+    [ "UpdateSectionPageSetupRequest", "classasposewordscloud_1_1models_1_1requests_1_1update__section__page__setup__request_1_1_update_section_page_setup_request.html", "classasposewordscloud_1_1models_1_1requests_1_1update__section__page__setup__request_1_1_update_section_page_setup_request" ]
+];

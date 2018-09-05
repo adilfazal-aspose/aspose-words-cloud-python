@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1get__available__fonts__request =
+[
+    [ "GetAvailableFontsRequest", "classasposewordscloud_1_1models_1_1requests_1_1get__available__fonts__request_1_1_get_available_fonts_request.html", "classasposewordscloud_1_1models_1_1requests_1_1get__available__fonts__request_1_1_get_available_fonts_request" ]
+];

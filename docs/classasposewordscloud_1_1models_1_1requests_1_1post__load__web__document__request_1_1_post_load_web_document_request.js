@@ -1,0 +1,6 @@
+var classasposewordscloud_1_1models_1_1requests_1_1post__load__web__document__request_1_1_post_load_web_document_request =
+[
+    [ "__init__", "classasposewordscloud_1_1models_1_1requests_1_1post__load__web__document__request_1_1_post_load_web_document_request.html#ae16971aa029acd44fbc6d934770bb722", null ],
+    [ "data", "classasposewordscloud_1_1models_1_1requests_1_1post__load__web__document__request_1_1_post_load_web_document_request.html#a6fa0db4def1ccbc8a6d4ec55e0069696", null ],
+    [ "storage", "classasposewordscloud_1_1models_1_1requests_1_1post__load__web__document__request_1_1_post_load_web_document_request.html#a06fe47038bd1aff0aac0843063f96a53", null ]
+];

@@ -1,0 +1,11 @@
+var classasposewordscloud_1_1models_1_1requests_1_1get__document__drawing__object__by__index__reques9266102f3c32796eb1240f824c528152 =
+[
+    [ "__init__", "classasposewordscloud_1_1models_1_1requests_1_1get__document__drawing__object__by__index__reques9266102f3c32796eb1240f824c528152.html#a92eac0bffbc657cb41c9095c2160e51e", null ],
+    [ "folder", "classasposewordscloud_1_1models_1_1requests_1_1get__document__drawing__object__by__index__reques9266102f3c32796eb1240f824c528152.html#ae987961c97c7261239a877ca428507dc", null ],
+    [ "index", "classasposewordscloud_1_1models_1_1requests_1_1get__document__drawing__object__by__index__reques9266102f3c32796eb1240f824c528152.html#ad1fef5948f9cc04bc1e8751989a27713", null ],
+    [ "load_encoding", "classasposewordscloud_1_1models_1_1requests_1_1get__document__drawing__object__by__index__reques9266102f3c32796eb1240f824c528152.html#af1aefcaecec5076e2fa502d586ade58c", null ],
+    [ "name", "classasposewordscloud_1_1models_1_1requests_1_1get__document__drawing__object__by__index__reques9266102f3c32796eb1240f824c528152.html#a04c5d07a7422a9a03ef78c4b0fd386f3", null ],
+    [ "node_path", "classasposewordscloud_1_1models_1_1requests_1_1get__document__drawing__object__by__index__reques9266102f3c32796eb1240f824c528152.html#aa809f38dfdd9af7f23a549ccd0b8b258", null ],
+    [ "password", "classasposewordscloud_1_1models_1_1requests_1_1get__document__drawing__object__by__index__reques9266102f3c32796eb1240f824c528152.html#a1d6236422597103dea41498c678b8095", null ],
+    [ "storage", "classasposewordscloud_1_1models_1_1requests_1_1get__document__drawing__object__by__index__reques9266102f3c32796eb1240f824c528152.html#a273a5505bac711620a0f7d70e36bf296", null ]
+];

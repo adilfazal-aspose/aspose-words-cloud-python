@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1delete__headers__footers__request =
+[
+    [ "DeleteHeadersFootersRequest", "classasposewordscloud_1_1models_1_1requests_1_1delete__headers__footers__request_1_1_delete_headers_footers_request.html", "classasposewordscloud_1_1models_1_1requests_1_1delete__headers__footers__request_1_1_delete_headers_footers_request" ]
+];

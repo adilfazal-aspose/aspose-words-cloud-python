@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1post__insert__page__numbers__request =
+[
+    [ "PostInsertPageNumbersRequest", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__page__numbers__request_1_1_post_insert_page_numbers_request.html", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__page__numbers__request_1_1_post_insert_page_numbers_request" ]
+];

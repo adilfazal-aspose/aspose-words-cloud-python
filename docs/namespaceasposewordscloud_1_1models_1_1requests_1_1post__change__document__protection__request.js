@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1post__change__document__protection__request =
+[
+    [ "PostChangeDocumentProtectionRequest", "classasposewordscloud_1_1models_1_1requests_1_1post__change__document__protection__request_1_1_p2dd676f2a82d2928e3693656427cf43a.html", "classasposewordscloud_1_1models_1_1requests_1_1post__change__document__protection__request_1_1_p2dd676f2a82d2928e3693656427cf43a" ]
+];

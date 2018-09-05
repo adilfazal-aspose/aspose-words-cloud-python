@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1protection__data__response =
+[
+    [ "ProtectionDataResponse", "classasposewordscloud_1_1models_1_1protection__data__response_1_1_protection_data_response.html", "classasposewordscloud_1_1models_1_1protection__data__response_1_1_protection_data_response" ]
+];

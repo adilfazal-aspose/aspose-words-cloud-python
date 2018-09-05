@@ -1,0 +1,13 @@
+var classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__text__request_bd8ce4fe2ed361c11a1785d07687f945 =
+[
+    [ "__init__", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__text__request_bd8ce4fe2ed361c11a1785d07687f945.html#aaf65327200179f14776e7a596b1c608c", null ],
+    [ "dest_file_name", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__text__request_bd8ce4fe2ed361c11a1785d07687f945.html#a2ecf9f746b8c20b30b36b042ccb373b3", null ],
+    [ "folder", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__text__request_bd8ce4fe2ed361c11a1785d07687f945.html#a260e6b4bf41b688165a4c8f22027a0ce", null ],
+    [ "load_encoding", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__text__request_bd8ce4fe2ed361c11a1785d07687f945.html#a1c2a9d14b9b8e19afe208dd5fab5373f", null ],
+    [ "name", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__text__request_bd8ce4fe2ed361c11a1785d07687f945.html#a954d381046fc77c0e846974d12f9d742", null ],
+    [ "password", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__text__request_bd8ce4fe2ed361c11a1785d07687f945.html#aed4eeb16d4cbfec346ee6b5ef3279aeb", null ],
+    [ "revision_author", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__text__request_bd8ce4fe2ed361c11a1785d07687f945.html#ab98d38ebe0b214c0be6a7293c18185a5", null ],
+    [ "revision_date_time", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__text__request_bd8ce4fe2ed361c11a1785d07687f945.html#a2c3ae9749cc6f540ecad11c730d5966f", null ],
+    [ "storage", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__text__request_bd8ce4fe2ed361c11a1785d07687f945.html#ac5efdbae0655162a1f2993c69de6d331", null ],
+    [ "watermark_text", "classasposewordscloud_1_1models_1_1requests_1_1post__insert__document__watermark__text__request_bd8ce4fe2ed361c11a1785d07687f945.html#a0a101a756d3f482251b13546bcc672f4", null ]
+];

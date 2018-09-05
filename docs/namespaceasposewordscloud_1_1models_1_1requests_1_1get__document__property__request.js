@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1get__document__property__request =
+[
+    [ "GetDocumentPropertyRequest", "classasposewordscloud_1_1models_1_1requests_1_1get__document__property__request_1_1_get_document_property_request.html", "classasposewordscloud_1_1models_1_1requests_1_1get__document__property__request_1_1_get_document_property_request" ]
+];

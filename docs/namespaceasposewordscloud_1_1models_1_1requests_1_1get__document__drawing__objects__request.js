@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1get__document__drawing__objects__request =
+[
+    [ "GetDocumentDrawingObjectsRequest", "classasposewordscloud_1_1models_1_1requests_1_1get__document__drawing__objects__request_1_1_get_064e9d8b141de8cf6e3ffbed2c46193d.html", "classasposewordscloud_1_1models_1_1requests_1_1get__document__drawing__objects__request_1_1_get_064e9d8b141de8cf6e3ffbed2c46193d" ]
+];

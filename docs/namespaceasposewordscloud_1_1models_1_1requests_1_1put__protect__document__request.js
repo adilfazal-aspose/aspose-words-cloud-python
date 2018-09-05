@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1put__protect__document__request =
+[
+    [ "PutProtectDocumentRequest", "classasposewordscloud_1_1models_1_1requests_1_1put__protect__document__request_1_1_put_protect_document_request.html", "classasposewordscloud_1_1models_1_1requests_1_1put__protect__document__request_1_1_put_protect_document_request" ]
+];

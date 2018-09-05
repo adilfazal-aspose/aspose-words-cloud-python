@@ -1,0 +1,15 @@
+var classasposewordscloud_1_1models_1_1requests_1_1post__document__execute__mail__merge__request_1_1cda80f5df93065300b065984a0db9676 =
+[
+    [ "__init__", "classasposewordscloud_1_1models_1_1requests_1_1post__document__execute__mail__merge__request_1_1cda80f5df93065300b065984a0db9676.html#adfb86a99703b93bd847d6c795a328c4f", null ],
+    [ "cleanup", "classasposewordscloud_1_1models_1_1requests_1_1post__document__execute__mail__merge__request_1_1cda80f5df93065300b065984a0db9676.html#a2a09e2ddd0951c9f2206f10027712872", null ],
+    [ "data", "classasposewordscloud_1_1models_1_1requests_1_1post__document__execute__mail__merge__request_1_1cda80f5df93065300b065984a0db9676.html#a92319d076a16e4fe002ac93282050364", null ],
+    [ "dest_file_name", "classasposewordscloud_1_1models_1_1requests_1_1post__document__execute__mail__merge__request_1_1cda80f5df93065300b065984a0db9676.html#a8a2d26d8640433a5f83c1c6f7bbbf2a9", null ],
+    [ "folder", "classasposewordscloud_1_1models_1_1requests_1_1post__document__execute__mail__merge__request_1_1cda80f5df93065300b065984a0db9676.html#ad221fcc6b3be2c33db36f5ae9607d912", null ],
+    [ "load_encoding", "classasposewordscloud_1_1models_1_1requests_1_1post__document__execute__mail__merge__request_1_1cda80f5df93065300b065984a0db9676.html#a2067661e52c42f8a3a9976c33a075f7c", null ],
+    [ "mail_merge_data_file", "classasposewordscloud_1_1models_1_1requests_1_1post__document__execute__mail__merge__request_1_1cda80f5df93065300b065984a0db9676.html#abe002c17dcd7a5f148175ac61ec4f407", null ],
+    [ "name", "classasposewordscloud_1_1models_1_1requests_1_1post__document__execute__mail__merge__request_1_1cda80f5df93065300b065984a0db9676.html#a55a82440df58e46ceda934fef9caa9ee", null ],
+    [ "password", "classasposewordscloud_1_1models_1_1requests_1_1post__document__execute__mail__merge__request_1_1cda80f5df93065300b065984a0db9676.html#acc99f3afbacb2aed6fa38c526944663d", null ],
+    [ "storage", "classasposewordscloud_1_1models_1_1requests_1_1post__document__execute__mail__merge__request_1_1cda80f5df93065300b065984a0db9676.html#ab90491a8c90e63688049bee3600f09c2", null ],
+    [ "use_whole_paragraph_as_region", "classasposewordscloud_1_1models_1_1requests_1_1post__document__execute__mail__merge__request_1_1cda80f5df93065300b065984a0db9676.html#ae7c8e524c299b402da7be93f06fc7915", null ],
+    [ "with_regions", "classasposewordscloud_1_1models_1_1requests_1_1post__document__execute__mail__merge__request_1_1cda80f5df93065300b065984a0db9676.html#a0830da094ef52cf02bc0310338873075", null ]
+];

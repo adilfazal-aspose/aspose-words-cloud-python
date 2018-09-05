@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1post__document__paragraph__run__font__request =
+[
+    [ "PostDocumentParagraphRunFontRequest", "classasposewordscloud_1_1models_1_1requests_1_1post__document__paragraph__run__font__request_1_12bb3fb2862b66529ae76bfc1ab0a6ceb.html", "classasposewordscloud_1_1models_1_1requests_1_1post__document__paragraph__run__font__request_1_12bb3fb2862b66529ae76bfc1ab0a6ceb" ]
+];

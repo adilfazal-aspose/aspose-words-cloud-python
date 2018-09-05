@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1drawing__object__response =
+[
+    [ "DrawingObjectResponse", "classasposewordscloud_1_1models_1_1drawing__object__response_1_1_drawing_object_response.html", "classasposewordscloud_1_1models_1_1drawing__object__response_1_1_drawing_object_response" ]
+];

@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1post__split__document__request =
+[
+    [ "PostSplitDocumentRequest", "classasposewordscloud_1_1models_1_1requests_1_1post__split__document__request_1_1_post_split_document_request.html", "classasposewordscloud_1_1models_1_1requests_1_1post__split__document__request_1_1_post_split_document_request" ]
+];

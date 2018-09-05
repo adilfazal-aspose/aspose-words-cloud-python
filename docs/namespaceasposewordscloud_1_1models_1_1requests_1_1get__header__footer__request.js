@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1get__header__footer__request =
+[
+    [ "GetHeaderFooterRequest", "classasposewordscloud_1_1models_1_1requests_1_1get__header__footer__request_1_1_get_header_footer_request.html", "classasposewordscloud_1_1models_1_1requests_1_1get__header__footer__request_1_1_get_header_footer_request" ]
+];

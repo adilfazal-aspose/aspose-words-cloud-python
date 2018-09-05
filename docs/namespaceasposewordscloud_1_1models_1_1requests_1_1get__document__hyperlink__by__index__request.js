@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1get__document__hyperlink__by__index__request =
+[
+    [ "GetDocumentHyperlinkByIndexRequest", "classasposewordscloud_1_1models_1_1requests_1_1get__document__hyperlink__by__index__request_1_1_8ca8a38456b4a5cc8992774784e3eec9.html", "classasposewordscloud_1_1models_1_1requests_1_1get__document__hyperlink__by__index__request_1_1_8ca8a38456b4a5cc8992774784e3eec9" ]
+];

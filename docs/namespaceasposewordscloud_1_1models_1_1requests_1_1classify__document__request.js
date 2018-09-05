@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1classify__document__request =
+[
+    [ "ClassifyDocumentRequest", "classasposewordscloud_1_1models_1_1requests_1_1classify__document__request_1_1_classify_document_request.html", "classasposewordscloud_1_1models_1_1requests_1_1classify__document__request_1_1_classify_document_request" ]
+];

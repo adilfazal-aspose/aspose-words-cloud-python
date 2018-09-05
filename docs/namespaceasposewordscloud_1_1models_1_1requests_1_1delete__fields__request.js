@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1delete__fields__request =
+[
+    [ "DeleteFieldsRequest", "classasposewordscloud_1_1models_1_1requests_1_1delete__fields__request_1_1_delete_fields_request.html", "classasposewordscloud_1_1models_1_1requests_1_1delete__fields__request_1_1_delete_fields_request" ]
+];

@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1post__update__document__fields__request =
+[
+    [ "PostUpdateDocumentFieldsRequest", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__fields__request_1_1_post_update_document_fields_request.html", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__fields__request_1_1_post_update_document_fields_request" ]
+];

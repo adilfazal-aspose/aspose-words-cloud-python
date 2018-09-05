@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1post__replace__text__request =
+[
+    [ "PostReplaceTextRequest", "classasposewordscloud_1_1models_1_1requests_1_1post__replace__text__request_1_1_post_replace_text_request.html", "classasposewordscloud_1_1models_1_1requests_1_1post__replace__text__request_1_1_post_replace_text_request" ]
+];

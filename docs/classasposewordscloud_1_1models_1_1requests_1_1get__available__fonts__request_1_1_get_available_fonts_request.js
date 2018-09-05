@@ -1,0 +1,5 @@
+var classasposewordscloud_1_1models_1_1requests_1_1get__available__fonts__request_1_1_get_available_fonts_request =
+[
+    [ "__init__", "classasposewordscloud_1_1models_1_1requests_1_1get__available__fonts__request_1_1_get_available_fonts_request.html#a1aa455e93b9f5361ace7debcdd9c8fad", null ],
+    [ "fonts_location", "classasposewordscloud_1_1models_1_1requests_1_1get__available__fonts__request_1_1_get_available_fonts_request.html#a87c189e190682cd245da4375a249491f", null ]
+];

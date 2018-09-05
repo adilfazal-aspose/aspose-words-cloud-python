@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1get__footnotes__request =
+[
+    [ "GetFootnotesRequest", "classasposewordscloud_1_1models_1_1requests_1_1get__footnotes__request_1_1_get_footnotes_request.html", "classasposewordscloud_1_1models_1_1requests_1_1get__footnotes__request_1_1_get_footnotes_request" ]
+];

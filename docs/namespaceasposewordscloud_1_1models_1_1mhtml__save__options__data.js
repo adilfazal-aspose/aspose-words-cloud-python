@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1mhtml__save__options__data =
+[
+    [ "MhtmlSaveOptionsData", "classasposewordscloud_1_1models_1_1mhtml__save__options__data_1_1_mhtml_save_options_data.html", "classasposewordscloud_1_1models_1_1mhtml__save__options__data_1_1_mhtml_save_options_data" ]
+];

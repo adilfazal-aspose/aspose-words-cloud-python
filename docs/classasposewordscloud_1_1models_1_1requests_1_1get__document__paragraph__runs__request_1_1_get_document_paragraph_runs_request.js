@@ -1,0 +1,10 @@
+var classasposewordscloud_1_1models_1_1requests_1_1get__document__paragraph__runs__request_1_1_get_document_paragraph_runs_request =
+[
+    [ "__init__", "classasposewordscloud_1_1models_1_1requests_1_1get__document__paragraph__runs__request_1_1_get_document_paragraph_runs_request.html#a8cd142df8197f4cfe5ac573b9ff0d907", null ],
+    [ "folder", "classasposewordscloud_1_1models_1_1requests_1_1get__document__paragraph__runs__request_1_1_get_document_paragraph_runs_request.html#aff05994785d2525664cf742447c20637", null ],
+    [ "load_encoding", "classasposewordscloud_1_1models_1_1requests_1_1get__document__paragraph__runs__request_1_1_get_document_paragraph_runs_request.html#a6ddcf964e7d845ef44a549376c845f5a", null ],
+    [ "name", "classasposewordscloud_1_1models_1_1requests_1_1get__document__paragraph__runs__request_1_1_get_document_paragraph_runs_request.html#af78bddadee6ed4a1270a70e434018fe6", null ],
+    [ "paragraph_path", "classasposewordscloud_1_1models_1_1requests_1_1get__document__paragraph__runs__request_1_1_get_document_paragraph_runs_request.html#a8d8cedb3a1b7e7faf1c1076529e7d9d4", null ],
+    [ "password", "classasposewordscloud_1_1models_1_1requests_1_1get__document__paragraph__runs__request_1_1_get_document_paragraph_runs_request.html#acfb604c19d0833d5b6a9dae8b5cbb4b7", null ],
+    [ "storage", "classasposewordscloud_1_1models_1_1requests_1_1get__document__paragraph__runs__request_1_1_get_document_paragraph_runs_request.html#a78d105d158072a48a35e168b43dc34e0", null ]
+];

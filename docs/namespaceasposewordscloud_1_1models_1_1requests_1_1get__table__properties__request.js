@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1get__table__properties__request =
+[
+    [ "GetTablePropertiesRequest", "classasposewordscloud_1_1models_1_1requests_1_1get__table__properties__request_1_1_get_table_properties_request.html", "classasposewordscloud_1_1models_1_1requests_1_1get__table__properties__request_1_1_get_table_properties_request" ]
+];

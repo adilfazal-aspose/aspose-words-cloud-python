@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1put__execute__mail__merge__online__request =
+[
+    [ "PutExecuteMailMergeOnlineRequest", "classasposewordscloud_1_1models_1_1requests_1_1put__execute__mail__merge__online__request_1_1_pub1ebaa1867a3c08e69c552374db95d7d.html", "classasposewordscloud_1_1models_1_1requests_1_1put__execute__mail__merge__online__request_1_1_pub1ebaa1867a3c08e69c552374db95d7d" ]
+];

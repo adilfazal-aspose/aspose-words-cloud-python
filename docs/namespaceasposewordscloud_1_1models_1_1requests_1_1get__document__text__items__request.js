@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1get__document__text__items__request =
+[
+    [ "GetDocumentTextItemsRequest", "classasposewordscloud_1_1models_1_1requests_1_1get__document__text__items__request_1_1_get_document_text_items_request.html", "classasposewordscloud_1_1models_1_1requests_1_1get__document__text__items__request_1_1_get_document_text_items_request" ]
+];

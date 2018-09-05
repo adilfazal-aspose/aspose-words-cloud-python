@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request =
+[
+    [ "PostUpdateDocumentBookmarkRequest", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request_1_1_pos524c44722ebac5d8f251aed7e7267a83.html", "classasposewordscloud_1_1models_1_1requests_1_1post__update__document__bookmark__request_1_1_pos524c44722ebac5d8f251aed7e7267a83" ]
+];

@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1post__append__document__request =
+[
+    [ "PostAppendDocumentRequest", "classasposewordscloud_1_1models_1_1requests_1_1post__append__document__request_1_1_post_append_document_request.html", "classasposewordscloud_1_1models_1_1requests_1_1post__append__document__request_1_1_post_append_document_request" ]
+];

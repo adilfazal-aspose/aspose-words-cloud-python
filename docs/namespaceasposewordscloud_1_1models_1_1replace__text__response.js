@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1replace__text__response =
+[
+    [ "ReplaceTextResponse", "classasposewordscloud_1_1models_1_1replace__text__response_1_1_replace_text_response.html", "classasposewordscloud_1_1models_1_1replace__text__response_1_1_replace_text_response" ]
+];

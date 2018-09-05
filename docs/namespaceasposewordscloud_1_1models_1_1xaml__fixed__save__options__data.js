@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1xaml__fixed__save__options__data =
+[
+    [ "XamlFixedSaveOptionsData", "classasposewordscloud_1_1models_1_1xaml__fixed__save__options__data_1_1_xaml_fixed_save_options_data.html", "classasposewordscloud_1_1models_1_1xaml__fixed__save__options__data_1_1_xaml_fixed_save_options_data" ]
+];

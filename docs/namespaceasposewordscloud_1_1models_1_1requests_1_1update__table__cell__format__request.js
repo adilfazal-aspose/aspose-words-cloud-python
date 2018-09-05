@@ -1,0 +1,4 @@
+var namespaceasposewordscloud_1_1models_1_1requests_1_1update__table__cell__format__request =
+[
+    [ "UpdateTableCellFormatRequest", "classasposewordscloud_1_1models_1_1requests_1_1update__table__cell__format__request_1_1_update_table_cell_format_request.html", "classasposewordscloud_1_1models_1_1requests_1_1update__table__cell__format__request_1_1_update_table_cell_format_request" ]
+];
